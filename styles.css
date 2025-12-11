@@ -589,7 +589,7 @@ body {
 }
 
 .titulo-principal {
-    font-size: 3em;
+    font-size: 2em;
     font-weight: 700;
     background: linear-gradient(45deg, #d4af37, #ffd700, #b8860b);
     -webkit-background-clip: text;
